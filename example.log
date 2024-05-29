@@ -1,0 +1,6 @@
+2024-05-28 12:00:00 INFO User logged in
+2024-05-28 12:05:00 ERROR Failed login attempt
+2024-05-28 12:10:00 INFO User logged out
+2024-05-28 12:15:00 INFO User logged in
+2024-05-28 12:20:00 WARNING Disk space low
+2024-05-28 12:25:00 INFO User uploaded a file
